@@ -10,17 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AleksandroKravchuk/express-handlebars.git"
+    "url": "git+https://github.com/Snisarenko21/test_backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AleksandroKravchuk/express-handlebars/issues"
+    "url": "https://github.com/Snisarenko21/test_backend/issues"
   },
-  "homepage": "https://github.com/AleksandroKravchuk/express-handlebars#readme",
+  "homepage": "https://github.com/Snisarenko21/test_backend#readme",
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
     "colors": "^1.4.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
